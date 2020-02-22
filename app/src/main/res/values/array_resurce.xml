@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tour">
+        <item> خونه </item>
+        <item> میناب </item>
+        <item> رودان </item>
+        <item> بندر </item>
+        <item> سندرک </item>
+        <item> هشت بندی </item>
+        <item> قشم </item>
+    </string-array>
+    
+    <integer-array  name="county_flag">
+        <item>@drawable/ba</item>
+        <item>@drawable/ir</item>
+        <item>@drawable/ar</item>
+        <item>@drawable/se</item>
+        <item>@drawable/ng</item>
+        <item>@drawable/es</item>
+        <item>@drawable/cn</item>
+        <item>@drawable/be</item>
+        <item>@drawable/br</item>
+    </integer-array>
+    
+    <string-array name="country_name">
+        <item>بوسنی</item>
+        <item>ایران</item>
+        <item>آرژانتین</item>
+        <item>سوئد</item>
+        <item>نجریه</item>
+        <item>اسپانیا</item>
+        <item>چین</item>
+        <item>بلژیک</item>
+        <item>برزیل</item>
+    </string-array>
+
+
+</resources>

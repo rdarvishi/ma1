@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ma1</string>
+    <string-array name="programing_languages">
+        <item>C++</item>
+        <item>C#</item>
+        <item>java</item>
+        <item>javaScrip</item>
+        <item>kotlin</item>
+        <item>python</item>
+        <item>swift</item>
+        <item>type script</item>
+        <item>visual studio</item>
+    </string-array>
+    <string-array name="description">
+        <item>this is a random descriptions C++</item>
+        <item>this is a random descriptions C#</item>
+        <item>this is a random descriptions java </item>
+        <item>this is a random descriptions</item>
+        <item>this is a random descriptions</item>
+        <item>this is a random descriptions</item>
+        <item>this is a random descriptions</item>
+        <item>this is a random descriptions</item>
+        <item>this is a random descriptions</item>
+        <item>this is a random descriptions</item>
+
+
+    </string-array>
+</resources>
